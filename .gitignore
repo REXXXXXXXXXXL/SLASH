@@ -1,0 +1,19 @@
+# Visual Studio and local build output
+.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+build/
+obj/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.exe
+*.cso
